@@ -1,0 +1,270 @@
+{
+  "accounts": [
+    {
+      "credentials": {
+        "email": "marcel@yahoo.com",
+        "password": "x"
+      },
+      "name": "Marcel",
+      "country": "Romania",
+      "favorite_games": [
+        "Metin",
+        "4Story"
+      ],
+      "maps_completed": "15",
+      "characters": [
+        {
+          "name": "Odysseus Prisco",
+          "profession": "Warrior",
+          "level": "1",
+          "experience": 15
+        },
+        {
+          "name": "Kameron Neppl",
+          "profession": "Mage",
+          "level": "1",
+          "experience": 10
+        },
+        {
+          "name": "Chlarimonde Markert",
+          "profession": "Rogue",
+          "level": "1",
+          "experience": 35
+        }
+      ]
+    },
+    {
+      "credentials": {
+        "email": "genna1951@hotmail.red",
+        "password": "123456"
+      },
+      "name": "Nawra Ortwin",
+      "country": "Turkey",
+      "favorite_games": [
+        "World of Warcraft",
+        "Metin2",
+        "Need for Speed"
+      ],
+      "maps_completed": "3",
+      "characters": [
+        {
+          "name": "Brisco Schaab",
+          "profession": "Warrior",
+          "level": "4",
+          "experience": 21
+        },
+        {
+          "name": "Scarlett Gardon",
+          "profession": "Mage",
+          "level": "7",
+          "experience": 50
+        },
+        {
+          "name": "Miyoko Fei",
+          "profession": "Rogue",
+          "level": "15",
+          "experience": 40
+        }
+      ]
+    },
+    {
+      "credentials": {
+        "email": "mculrad0586@perirh.com",
+        "password": "aTtZWI7SDl"
+      },
+      "name": "Gemma Eusebius",
+      "country": "France",
+      "favorite_games": [
+        "Metin",
+        "4Story"
+      ],
+      "maps_completed": "1",
+      "characters": [
+        {
+          "name": "Fujio Takeshita",
+          "profession": "Warrior",
+          "level": "12",
+          "experience": 15
+        },
+        {
+          "name": "Briareus Prestia",
+          "profession": "Mage",
+          "level": "5",
+          "experience": 10
+        },
+        {
+          "name": "Kame Oda",
+          "profession": "Rogue",
+          "level": "11",
+          "experience": 5
+        }
+      ]
+    },
+    {
+      "credentials": {
+        "email": "kdsinc@o0i.es",
+        "password": "bxSvxYcaoD"
+      },
+      "name": "Grimwald Marciane",
+      "country": "United Kingdom",
+      "favorite_games": [
+        "Metin",
+        "4Story"
+      ],
+      "maps_completed": "20",
+      "characters": [
+        {
+          "name": "Fedele Sama",
+          "profession": "Warrior",
+          "level": "10",
+          "experience": 20
+        },
+        {
+          "name": "Jannik Wriedt",
+          "profession": "Mage",
+          "level": "1",
+          "experience": 0
+        },
+        {
+          "name": "Hisa Hano",
+          "profession": "Rogue",
+          "level": "2",
+          "experience": 20
+        }
+      ]
+    },
+    {
+      "credentials": {
+        "email": "dd55avid@lited.site",
+        "password": "L5PN1Qknrn"
+      },
+      "name": "Sanjiv Bénédicte",
+      "country": "India",
+      "favorite_games": [
+        "Counter Strike 1.6",
+        "GTA V",
+        "Metin 2"
+      ],
+      "maps_completed": "60",
+      "characters": [
+        {
+          "name": "Rina Zanin",
+          "profession": "Warrior",
+          "level": "3",
+          "experience": 4
+        },
+        {
+          "name": "Dyana Inselman",
+          "profession": "Mage",
+          "level": "5",
+          "experience": 10
+        },
+        {
+          "name": "Uysal Abdallah",
+          "profession": "Rogue",
+          "level": "7",
+          "experience": 45
+        }
+      ]
+    },
+    {
+      "credentials": {
+        "email": "troydealbaby@eoooodid.com",
+        "password": "nhnn0HXi8q"
+      },
+      "name": "Praveena Yevheniy",
+      "country": "Romania",
+      "favorite_games": [
+        "Metin 2",
+        "League of Legends"
+      ],
+      "maps_completed": "10",
+      "characters": [
+        {
+          "name": "Silvain Spilker",
+          "profession": "Warrior",
+          "level": "8",
+          "experience": 0
+        },
+        {
+          "name": "Thibaut Goy",
+          "profession": "Mage",
+          "level": "10",
+          "experience": 3
+        },
+        {
+          "name": "Eyup Uner",
+          "profession": "Rogue",
+          "level": "2",
+          "experience": 3
+        }
+      ]
+    },
+    {
+      "credentials": {
+        "email": "al6056@keralaairport.net",
+        "password": "fBfQbuDm8Z"
+      },
+      "name": "Victor Madhuri",
+      "country": "Bulgaria",
+      "favorite_games": [
+        "Lego Lord of the Rings",
+        "Guild Wars 2"
+      ],
+      "maps_completed": "3",
+      "characters": [
+        {
+          "name": "Jaiden Kimmich",
+          "profession": "Warrior",
+          "level": "10",
+          "experience": 1
+        },
+        {
+          "name": "Zain Eiden",
+          "profession": "Mage",
+          "level": "7",
+          "experience": 2
+        },
+        {
+          "name": "Crocefissa Smeriglio",
+          "profession": "Rogue",
+          "level": "11",
+          "experience": 5
+        }
+      ]
+    },
+    {
+      "credentials": {
+        "email": "roschsin@epubp.site",
+        "password": "AtprqBw5np"
+      },
+      "name": "Stuart Dorofei",
+      "country": "Romania",
+      "favorite_games": [
+        "Batman Arkham Knight",
+        "Batman Arkham Asylum"
+      ],
+      "maps_completed": "13",
+      "characters": [
+        {
+          "name": "Fiona Broussard",
+          "profession": "Warrior",
+          "level": "20",
+          "experience": 2
+        },
+        {
+          "name": "Fjodora Schutzman",
+          "profession": "Mage",
+          "level": "15",
+          "experience": 3
+        },
+        {
+          "name": "Shigeru Uno",
+          "profession": "Rogue",
+          "level": "6",
+          "experience": 10
+        }
+      ]
+    }
+  ]
+}
