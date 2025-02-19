@@ -1,6 +1,6 @@
 # 🎮 Sabe’s Adventure Game
 
-Sabe’s Adventure is a charming adventure game where players explore a mysterious world filled with challenges, hidden sanctuaries, and thrilling battles. Step into the role of a brave hero, uncover secrets, and navigate through dynamic encounters that will test your courage and strategy.  
+Sabe’s Adventure Game is a charming adventure game where players explore a mysterious world filled with challenges, hidden sanctuaries, and thrilling battles. Step into the role of a brave hero, uncover secrets, and navigate through dynamic encounters that will test your courage and strategy.  
 
 ---
 
